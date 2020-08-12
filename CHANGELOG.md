@@ -2,6 +2,12 @@
 
 Framer Motion adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.4.2] 2020-08-13
+
+### Fixed
+
+-   Fixed propagation of `delay` through child variants.
+
 ## [2.4.1] 2020-08-12
 
 ### Fixed
